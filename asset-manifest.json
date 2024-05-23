@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/E-Learning-Platform/static/css/main.8186ef82.css",
+    "main.js": "/E-Learning-Platform/static/js/main.a6c33858.js",
+    "static/media/i7.png": "/E-Learning-Platform/static/media/i7.47d7e0fd0ca479c4f075.png",
+    "static/media/i5.jpg": "/E-Learning-Platform/static/media/i5.e880653fb605911e22b6.jpg",
+    "static/media/c8.png": "/E-Learning-Platform/static/media/c8.a7390cf62910e0d34d57.png",
+    "static/media/d2.png": "/E-Learning-Platform/static/media/d2.03511d2ae3e519bbe2db.png",
+    "static/media/c11.jpg": "/E-Learning-Platform/static/media/c11.fa8aa7d2758b92d05cc2.jpg",
+    "static/media/i6.png": "/E-Learning-Platform/static/media/i6.c583628cb320f461c633.png",
+    "static/media/c7.jpg": "/E-Learning-Platform/static/media/c7.16f0bb11dd33922f7ccc.jpg",
+    "static/media/c1.jpg": "/E-Learning-Platform/static/media/c1.b656dc3d8eb15fb21a66.jpg",
+    "static/media/c4.jpeg": "/E-Learning-Platform/static/media/c4.d9241129111ff2a56c16.jpeg",
+    "static/media/c10.jpg": "/E-Learning-Platform/static/media/c10.96d5ed1b110e7aa9b43d.jpg",
+    "static/media/c5.png": "/E-Learning-Platform/static/media/c5.18a12fd2c9591ea2dc16.png",
+    "static/media/c6.jpg": "/E-Learning-Platform/static/media/c6.7575b702d8622714e3cf.jpg",
+    "static/media/c12.png": "/E-Learning-Platform/static/media/c12.7601754e86642fbfec9d.png",
+    "static/media/p3.jpeg": "/E-Learning-Platform/static/media/p3.7fae015f3529f08e8bd3.jpeg",
+    "static/media/c2.png": "/E-Learning-Platform/static/media/c2.59b2150473dffcd7b7ea.png",
+    "index.html": "/E-Learning-Platform/index.html",
+    "main.8186ef82.css.map": "/E-Learning-Platform/static/css/main.8186ef82.css.map",
+    "main.a6c33858.js.map": "/E-Learning-Platform/static/js/main.a6c33858.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8186ef82.css",
+    "static/js/main.a6c33858.js"
+  ]
+}
